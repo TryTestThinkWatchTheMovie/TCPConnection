@@ -6,10 +6,10 @@ using System.Net.Sockets;
 public class Program
 {
 
-    //////https://21303.live.streamtheworld.com/METRO_FM_SC
+   
     public static void Main()
     {
-        //Creates the Socket for sending data over TCP.
+      
 
 
         using var client = new TcpClient();
